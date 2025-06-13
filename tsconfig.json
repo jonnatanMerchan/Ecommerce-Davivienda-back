@@ -1,0 +1,14 @@
+  {
+    "compilerOptions": {
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "module": "commonjs",
+      "target": "es2017",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true
+    }
+  } 
